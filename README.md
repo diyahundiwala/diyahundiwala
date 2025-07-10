@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Diya!  
 
-🎓 Computer Science @ Princeton | 💻 Incoming **Microsoft SWE Intern**  
+🎓 Computer Science @ Princeton | 💻 **Microsoft SWE Intern**  
 🧑🏽‍💻 Passionate about **Human-Computer Interaction**, **AI/ML**, and building tools that make tech more accessible  
 
 I love designing **intelligent, user-centric systems**—whether that’s through **AR-based educational apps**, **full-stack web platforms**, or **ML-powered automation**. I also enjoy growing as a leader and giving back to my communities through mentoring and outreach.  
