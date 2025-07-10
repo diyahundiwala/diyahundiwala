@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Diya!  
 <div align="center">
-  <img src="https://github.com/diyahundiwala.png" alt="Diya Hundiwala" width="150" style="border-radius: 50%;"/>
+  <img src="[https://github.com/diyahundiwala.png](https://github.com/diyahundiwala/diyahundiwala/blob/main/headshot.jpeg)" alt="Diya Hundiwala" width="150" style="border-radius: 50%;"/>
 </div>
 🎓 Computer Science @ Princeton | 💻 **Microsoft SWE Intern**  
 🧑🏽‍💻 Passionate about **Human-Computer Interaction**, **AI/ML**, and building tools that make tech more accessible  
