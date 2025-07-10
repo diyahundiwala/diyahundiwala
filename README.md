@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Diya!  
 ![Diya Hundiwala](./headshot.jpeg)
-</div>
 🎓 Computer Science @ Princeton | 💻 **Microsoft SWE Intern**  
 🧑🏽‍💻 Passionate about **Human-Computer Interaction**, **AI/ML**, and building tools that make tech more accessible  
 
